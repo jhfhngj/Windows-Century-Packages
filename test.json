@@ -1,0 +1,4 @@
+{
+  installTo:"/test.txt",
+  contents:"Testing package"
+}
