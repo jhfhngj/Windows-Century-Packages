@@ -1,4 +1,4 @@
 {
-  installTo:"/test.txt",
-  contents:"Testing package"
+  "installTo":"/test.txt",
+  "contents":"Testing package"
 }
